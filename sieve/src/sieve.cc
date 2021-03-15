@@ -1,7 +1,7 @@
 // sieve of eratosthenes
 // hobbs 2021
 // c++
-#include </acct/wihobbs/personal/sieve/inc/sieve.h>
+#include <sieve/inc/sieve.h>
 
 #include <cstdlib>
 #include <iostream>
