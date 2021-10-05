@@ -1,7 +1,6 @@
 ## copyright 2021 hobbs
 ## python program for generating prime numbers
-## "sieve of eratosthenes" method
-## my attempt at parallel computing
+## "sieve of eratosthenes" method in serial
 ## import multiprocessing as mp
 
 def sieve(n):
